@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Vibeo</string>
+
+    <string name="allow_audio_rec">Please allow audio recording. It is required by equalizer</string>
+</resources>
